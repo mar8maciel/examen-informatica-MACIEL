@@ -1,7 +1,7 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
-- **Cohorte / turno:**
-- **Fecha:**
+- **Apellido y nombre: Maciel Mariana Lujan**
+- **Tecnicatura:** Higiene y Seguridad 
+- **Cohorte / turno:*Intrnsivo 2026*
+- **Fecha:** 07/11
 - **Consigna que desarrollo:** `consignas/` + nombre del archivo
